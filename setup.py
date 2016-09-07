@@ -16,7 +16,7 @@ setup(
     long_description=readme,
     author='Ionata Digital',
     author_email='webmaster@ionata.com.au',
-    url='https://github.org/ionata/django-unique-uploadto',
+    url='https://github.com/ionata/django-unique-uploadto',
     license='BSD',
     packages=find_packages(),
     install_requires=[
